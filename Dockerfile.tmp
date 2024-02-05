@@ -1,0 +1,2 @@
+FROM quay.io/susdas-qe/build-e2e-wncy-tenant/build-suite-component-update-qjux/multi-component-parent-agxf@sha256:42749d9090fc6530b4f83c28a461044a86a0d9295411d9dad25a661fdb9efe4c
+RUN echo hello
