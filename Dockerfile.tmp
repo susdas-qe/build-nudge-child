@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-gugv-tenant/build-suite-component-update-rjtp/multi-component-parent-ameo@sha256:42d15e23922dc1fc5fbd45f249918bbdd2c74c0e7bc450845ebd8f9a3164978f
+RUN echo hello
