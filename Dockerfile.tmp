@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rehm-tenant/build-suite-component-update-iklt/multi-component-parent-gbrb@sha256:91c03d62fa64f813fbdd51f4a7adef848ca27925dcb90ce65dfe20135710dcb2
+FROM quay.io/redhat-appstudio-qe/build-e2e-rehm-tenant/build-suite-component-update-iklt/multi-component-parent-gbrb@sha256:fc1a5c919d26d91cb5106310bbb53f2a426589e01605bc1fa0ac3df341be32fd
 RUN echo hello
