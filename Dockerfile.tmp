@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-rhvu-tenant/build-suite-component-update-szna/multi-component-parent-zrge@sha256:d3ca16dad59541bd81b99128beee69bfd807a0269d6017deb8ea73cf37961ba1
+FROM quay.io/redhat-appstudio-qe/build-e2e-rhvu-tenant/build-suite-component-update-szna/multi-component-parent-zrge@sha256:c87f812f4eab61c05f29f00d0e6b7f3bc347d1677921b8b4896758a26db3cde7
 RUN echo hello
