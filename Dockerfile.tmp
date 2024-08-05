@@ -1,2 +1,2 @@
-FROM quay.io/redhat-appstudio-qe/build-e2e-hazk-tenant/build-suite-component-update-mcpa/multi-component-parent-rred@sha256:b48eef13184fc2e5363d9b859b23f7e2fc82aa8e08e3b11424242665e37d4f18
+FROM quay.io/redhat-appstudio-qe/build-e2e-hazk-tenant/build-suite-component-update-mcpa/multi-component-parent-rred@sha256:1ad9080aa4858d518e16dbe8ab730f6483cfa536945fa6c07e3d2f09742a56d8
 RUN echo hello
