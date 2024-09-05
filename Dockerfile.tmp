@@ -1,0 +1,2 @@
+FROM quay.io/redhat-appstudio-qe/build-e2e-ekcz-tenant/build-suite-component-update-goko/multi-component-parent-wtvv@sha256:de9d4d393a73b3f93dc5ad7d37867beac1ce2ce5b462007bdc04ea5d0b3c37b0
+RUN echo hello
